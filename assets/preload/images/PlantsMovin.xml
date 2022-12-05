@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PlantsMovin.png">
+<SubTexture name="plants movin0000" x="0" y="0" width="1417" height="747" frameX="-1143" frameY="-231" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="plants movin0001" x="0" y="0" width="1417" height="747" frameX="-1143" frameY="-231" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="plants movin0002" x="1417" y="0" width="1406" height="747" frameX="-1154" frameY="-231" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="plants movin0003" x="1417" y="0" width="1406" height="747" frameX="-1154" frameY="-231" frameWidth="2560" frameHeight="1400" />
+</TextureAtlas>

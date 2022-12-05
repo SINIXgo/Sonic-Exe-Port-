@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MechaFlower.png">
+<SubTexture name="flower movin0000" x="0" y="0" width="376" height="740" frameX="-1333" frameY="-163" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="flower movin0001" x="0" y="0" width="376" height="740" frameX="-1333" frameY="-163" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="flower movin0002" x="0" y="0" width="376" height="740" frameX="-1333" frameY="-163" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="flower movin0003" x="376" y="0" width="364" height="728" frameX="-1351" frameY="-175" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="flower movin0004" x="376" y="0" width="364" height="728" frameX="-1351" frameY="-175" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="flower movin0005" x="376" y="0" width="364" height="728" frameX="-1351" frameY="-175" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="flower movin0006" x="0" y="0" width="376" height="740" frameX="-1333" frameY="-163" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="flower movin0007" x="0" y="0" width="376" height="740" frameX="-1333" frameY="-163" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="flower movin0008" x="0" y="0" width="376" height="740" frameX="-1333" frameY="-163" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="flower movin0009" x="376" y="0" width="364" height="728" frameX="-1351" frameY="-175" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="flower movin0010" x="376" y="0" width="364" height="728" frameX="-1351" frameY="-175" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="flower movin0011" x="376" y="0" width="364" height="728" frameX="-1351" frameY="-175" frameWidth="2560" frameHeight="1400" />
+</TextureAtlas>

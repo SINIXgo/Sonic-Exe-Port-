@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="light.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lumf0000" x="4" y="4" width="1385" height="400"/>
+	<SubTexture name="lumf0001" x="4" y="4" width="1385" height="400"/>
+	<SubTexture name="lumf0002" x="4" y="408" width="1385" height="400"/>
+	<SubTexture name="lumf0003" x="4" y="408" width="1385" height="400"/>
+	<SubTexture name="lumf0004" x="4" y="812" width="1385" height="400"/>
+	<SubTexture name="lumf0005" x="4" y="812" width="1385" height="400"/>
+	<SubTexture name="lumf0006" x="4" y="1216" width="1385" height="400"/>
+	<SubTexture name="lumf0007" x="4" y="1216" width="1385" height="400"/>
+	<SubTexture name="lumf0008" x="4" y="4" width="1385" height="400"/>
+	<SubTexture name="lumf0009" x="4" y="4" width="1385" height="400"/>
+	<SubTexture name="lumf0010" x="4" y="408" width="1385" height="400"/>
+	<SubTexture name="lumf0011" x="4" y="408" width="1385" height="400"/>
+	<SubTexture name="lumf0012" x="4" y="812" width="1385" height="400"/>
+	<SubTexture name="lumf0013" x="4" y="812" width="1385" height="400"/>
+	<SubTexture name="lumf0014" x="4" y="1216" width="1385" height="400"/>
+	<SubTexture name="lumf0015" x="4" y="1216" width="1385" height="400"/>
+	<SubTexture name="lumf0016" x="4" y="4" width="1385" height="400"/>
+	<SubTexture name="lumf0017" x="4" y="4" width="1385" height="400"/>
+	<SubTexture name="lumf0018" x="4" y="408" width="1385" height="400"/>
+	<SubTexture name="lumf0019" x="4" y="408" width="1385" height="400"/>
+	<SubTexture name="lumf0020" x="4" y="812" width="1385" height="400"/>
+	<SubTexture name="lumf0021" x="4" y="812" width="1385" height="400"/>
+	<SubTexture name="lumf0022" x="4" y="1216" width="1385" height="400"/>
+</TextureAtlas>
