@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				6
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "knucklesdrugged idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "knucklesdrugged right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "knucklesdrugged left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "knucklesdrugged down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "knucklesdrugged Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/knucklesdrugged",
+	"position": [
+		-170,
+		-180
+	],
+	"healthicon": "knuckles",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		51,
+		0
+	],
+	"camera_position": [
+		210,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

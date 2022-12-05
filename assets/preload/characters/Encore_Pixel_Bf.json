@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle Encore Boyfriend",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-100
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left Encore Bf",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down Encore Bf",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up Encore Bf",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right Encore Bf",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-100
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Miss Note Left Encore Bf",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-100
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Miss Note Down Encore Bf",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-100
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Miss Note Up Encore Bf",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-99
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Miss Note Right Encore Bf",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/e bf",
+	"position": [
+		30,
+		80
+	],
+	"healthicon": "Encore-bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		99,
+		155,
+		255
+	],
+	"camera_position": [
+		400,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 6.99999999999999
+}

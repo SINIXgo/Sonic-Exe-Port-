@@ -9,135 +9,102 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "idle"
+			"name": "Idle Encore Bf"
 		},
 		{
 			"offsets": [
-				115,
-				-17
+				124,
+				-23
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "left"
+			"name": "Left Encore bf"
 		},
 		{
 			"offsets": [
-				24,
-				-96
+				26,
+				-107
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "down"
+			"name": "Down Encore Bf"
 		},
 		{
 			"offsets": [
-				-19,
-				45
+				-22,
+				50
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "up"
+			"name": "Up Encore Bf"
 		},
 		{
 			"offsets": [
-				-29,
-				-11
+				-19,
+				-19
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "right"
+			"name": "Right Encore Bf"
 		},
 		{
 			"offsets": [
-				113,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "miss left"
-		},
-		{
-			"offsets": [
-				77,
-				-83
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "miss down"
-		},
-		{
-			"offsets": [
-				-8,
-				65
+				-10,
+				70
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUPmiss",
 			"indices": [],
-			"name": "miss up"
+			"name": "Miss note Up Bf Encore"
 		},
 		{
 			"offsets": [
-				-38,
-				-7
+				87,
+				-95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Miss Note Down Encore Bf"
+		},
+		{
+			"offsets": [
+				-22,
+				-26
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHTmiss",
 			"indices": [],
-			"name": "miss right"
+			"name": "Miss note Right Encore Bf"
 		},
 		{
 			"offsets": [
-				15,
-				1
+				127,
+				-12
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "firstDeath",
+			"anim": "singLEFTmiss",
 			"indices": [],
-			"name": "Dead Bf"
-		},
-		{
-			"offsets": [
-				14,
-				7
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "deathConfirm",
-			"indices": [],
-			"name": "Confirm Dead"
-		},
-		{
-			"offsets": [
-				14,
-				1
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "deathLoop",
-			"indices": [],
-			"name": "Dead Bf"
+			"name": "Miss Note Left Encore Bf"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/bf knux",
 	"position": [
 		220,
-		180
+		220
 	],
 	"healthicon": "Encore-bf",
 	"flip_x": true,
@@ -147,9 +114,9 @@
 		236
 	],
 	"camera_position": [
-		320,
-		-80
+		480,
+		-250
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.1
 }

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-245,
+				-84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "lal"
+		},
+		{
+			"offsets": [
+				19,
+				-156
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "lol"
+		},
+		{
+			"offsets": [
+				-324,
+				-80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "lol"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/give up touls",
+	"position": [
+		690,
+		-110
+	],
+	"healthicon": "Encore-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		61,
+		106,
+		236
+	],
+	"camera_position": [
+		-20,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

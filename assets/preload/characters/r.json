@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				257,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "escape"
+		},
+		{
+			"offsets": [
+				219,
+				-86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "give up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				241,
+				-66
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "give up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/give up exeller",
+	"position": [
+		580,
+		50
+	],
+	"healthicon": "Encore-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		61,
+		166,
+		236
+	],
+	"camera_position": [
+		-30,
+		540
+	],
+	"sing_duration": 4,
+	"scale": 2.9
+}

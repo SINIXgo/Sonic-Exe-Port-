@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-410
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle Exeller",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-423
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left Exeller",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-400
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right Exeller",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-420
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down Exeller",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-56,
+				-399
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up Exeller",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Exeller Sprite",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "exeller-sprite",
+	"flip_x": false,
+	"healthbar_colors": [
+		48,
+		73,
+		130
+	],
+	"camera_position": [
+		-30,
+		400
+	],
+	"sing_duration": 4,
+	"scale": 6.89999999999999
+}

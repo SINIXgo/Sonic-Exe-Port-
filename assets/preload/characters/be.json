@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-68,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "escape"
+		},
+		{
+			"offsets": [
+				-113,
+				-229
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "give up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-60,
+				-100
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "give up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/give up exe bf",
+	"position": [
+		180,
+		-220
+	],
+	"healthicon": "Encore-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		61,
+		166,
+		236
+	],
+	"camera_position": [
+		-30,
+		540
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}
