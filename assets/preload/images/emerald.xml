@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="emerald.png"><SubTexture name="emerald shiny0000" x="3795" y="1072" width="1198" height="1021" frameX="-693" frameY="-379" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0001" x="3795" y="1072" width="1198" height="1021" frameX="-693" frameY="-379" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0002" x="3795" y="0" width="1214" height="1072" frameX="-685" frameY="-328" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0003" x="3795" y="0" width="1214" height="1072" frameX="-685" frameY="-328" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0004" x="2488" y="2190" width="1234" height="1081" frameX="-675" frameY="-319" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0005" x="2488" y="2190" width="1234" height="1081" frameX="-675" frameY="-319" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0006" x="2530" y="1095" width="1244" height="1086" frameX="-670" frameY="-314" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0007" x="2530" y="1095" width="1244" height="1086" frameX="-670" frameY="-314" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0008" x="0" y="2190" width="1244" height="1086" frameX="-670" frameY="-314" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0009" x="0" y="2190" width="1244" height="1086" frameX="-670" frameY="-314" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0010" x="1244" y="2190" width="1244" height="1086" frameX="-670" frameY="-314" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0011" x="1244" y="2190" width="1244" height="1086" frameX="-670" frameY="-314" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0012" x="0" y="0" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0013" x="0" y="0" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0014" x="1265" y="0" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0015" x="1265" y="0" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0016" x="0" y="1095" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0017" x="0" y="1095" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0018" x="1265" y="1095" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0019" x="1265" y="1095" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0020" x="2530" y="0" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0021" x="2530" y="0" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0022" x="1265" y="1095" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0023" x="1265" y="1095" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0024" x="0" y="1095" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0025" x="0" y="1095" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0026" x="1265" y="0" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0027" x="1265" y="0" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0028" x="0" y="0" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0029" x="0" y="0" width="1265" height="1095" frameX="-659" frameY="-305" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0030" x="1244" y="2190" width="1244" height="1086" frameX="-670" frameY="-314" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0031" x="1244" y="2190" width="1244" height="1086" frameX="-670" frameY="-314" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0032" x="0" y="2190" width="1244" height="1086" frameX="-670" frameY="-314" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0033" x="0" y="2190" width="1244" height="1086" frameX="-670" frameY="-314" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0034" x="2530" y="1095" width="1244" height="1086" frameX="-670" frameY="-314" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0035" x="2530" y="1095" width="1244" height="1086" frameX="-670" frameY="-314" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0036" x="2488" y="2190" width="1234" height="1081" frameX="-675" frameY="-319" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0037" x="2488" y="2190" width="1234" height="1081" frameX="-675" frameY="-319" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0038" x="3795" y="0" width="1214" height="1072" frameX="-685" frameY="-328" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="emerald shiny0039" x="3795" y="0" width="1214" height="1072" frameX="-685" frameY="-328" frameWidth="2560" frameHeight="1400" />
+</TextureAtlas>

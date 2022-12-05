@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scream.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="screa0000" x="7" y="7" width="758" height="421" frameX="-1399" frameY="-818" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0001" x="772" y="7" width="852" height="491" frameX="-1352" frameY="-783" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0002" x="1631" y="7" width="1156" height="686" frameX="-1203" frameY="-696" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0003" x="2794" y="7" width="1296" height="777" frameX="-1133" frameY="-671" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0004" x="4097" y="7" width="1296" height="777" frameX="-1133" frameY="-671" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0005" x="5400" y="7" width="1281" height="767" frameX="-1140" frameY="-679" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0006" x="6688" y="7" width="1281" height="767" frameX="-1140" frameY="-679" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0007" x="7" y="791" width="1281" height="767" frameX="-1140" frameY="-677" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0008" x="1295" y="791" width="1281" height="767" frameX="-1140" frameY="-677" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0009" x="2583" y="791" width="1281" height="767" frameX="-1140" frameY="-672" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0010" x="3871" y="791" width="1281" height="767" frameX="-1140" frameY="-672" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0011" x="5159" y="791" width="1281" height="767" frameX="-1140" frameY="-683" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0012" x="6447" y="791" width="1357" height="767" frameX="-1102" frameY="-683" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0013" x="7" y="1565" width="3561" height="2133"/>
+	<SubTexture name="screa0014" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0015" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0016" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0017" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0018" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0019" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0020" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0021" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0022" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0023" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0024" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0025" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0026" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0027" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0028" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0029" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0030" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0031" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0032" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0033" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0034" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0035" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0036" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0037" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0038" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0039" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0040" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0041" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0042" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0043" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0044" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0045" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0046" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0047" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+	<SubTexture name="screa0048" x="3575" y="1565" width="0" height="0" frameX="0" frameY="0" frameWidth="3561" frameHeight="2133"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flowers.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lall0000" x="0" y="0" width="1646" height="481" frameX="-1" frameY="0" frameWidth="1647" frameHeight="481"/>
+	<SubTexture name="lall0001" x="0" y="0" width="1646" height="481" frameX="-1" frameY="0" frameWidth="1647" frameHeight="481"/>
+	<SubTexture name="lall0002" x="1646" y="0" width="1647" height="481"/>
+	<SubTexture name="lall0003" x="1646" y="0" width="1647" height="481"/>
+	<SubTexture name="lall0004" x="0" y="481" width="1646" height="481" frameX="-1" frameY="0" frameWidth="1647" frameHeight="481"/>
+	<SubTexture name="lall0005" x="0" y="481" width="1646" height="481" frameX="-1" frameY="0" frameWidth="1647" frameHeight="481"/>
+	<SubTexture name="lall0006" x="1646" y="481" width="1645" height="481" frameX="-2" frameY="0" frameWidth="1647" frameHeight="481"/>
+	<SubTexture name="lall0007" x="1646" y="481" width="1645" height="481" frameX="-2" frameY="0" frameWidth="1647" frameHeight="481"/>
+	<SubTexture name="lall0008" x="1646" y="481" width="1645" height="481" frameX="-2" frameY="0" frameWidth="1647" frameHeight="481"/>
+	<SubTexture name="lall0009" x="1646" y="481" width="1645" height="481" frameX="-2" frameY="0" frameWidth="1647" frameHeight="481"/>
+	<SubTexture name="lall0010" x="0" y="962" width="1645" height="481" frameX="-2" frameY="0" frameWidth="1647" frameHeight="481"/>
+	<SubTexture name="lall0011" x="0" y="962" width="1645" height="481" frameX="-2" frameY="0" frameWidth="1647" frameHeight="481"/>
+	<SubTexture name="lall0012" x="1645" y="962" width="1646" height="481" frameX="-1" frameY="0" frameWidth="1647" frameHeight="481"/>
+	<SubTexture name="lall0013" x="1645" y="962" width="1646" height="481" frameX="-1" frameY="0" frameWidth="1647" frameHeight="481"/>
+	<SubTexture name="lall0014" x="0" y="481" width="1646" height="481" frameX="-1" frameY="0" frameWidth="1647" frameHeight="481"/>
+	<SubTexture name="lall0015" x="0" y="481" width="1646" height="481" frameX="-1" frameY="0" frameWidth="1647" frameHeight="481"/>
+	<SubTexture name="lall0016" x="1646" y="481" width="1645" height="481" frameX="-2" frameY="0" frameWidth="1647" frameHeight="481"/>
+	<SubTexture name="lall0017" x="1646" y="481" width="1645" height="481" frameX="-2" frameY="0" frameWidth="1647" frameHeight="481"/>
+	<SubTexture name="lall0018" x="1646" y="481" width="1645" height="481" frameX="-2" frameY="0" frameWidth="1647" frameHeight="481"/>
+	<SubTexture name="lall0019" x="1646" y="481" width="1645" height="481" frameX="-2" frameY="0" frameWidth="1647" frameHeight="481"/>
+</TextureAtlas>

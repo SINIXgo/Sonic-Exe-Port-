@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="brouillard.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="brouillard 0000" x="4" y="4" width="4040" height="2161" frameX="-2" frameY="-1" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0001" x="4" y="4" width="4040" height="2161" frameX="-1" frameY="-1" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0002" x="4" y="4" width="4040" height="2161" frameX="-1" frameY="-2" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0003" x="4048" y="4" width="4046" height="2167" frameX="-1" frameY="-2" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0004" x="4048" y="4" width="4046" height="2167" frameX="-1" frameY="-3" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0005" x="4048" y="4" width="4046" height="2167" frameX="-1" frameY="-4" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0006" x="4048" y="4" width="4046" height="2167" frameX="-1" frameY="-5" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0007" x="4048" y="4" width="4046" height="2167" frameX="0" frameY="-5" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0008" x="4048" y="4" width="4046" height="2167" frameX="0" frameY="-6" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0009" x="4" y="2175" width="4048" height="2169" frameX="0" frameY="-7" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0010" x="4" y="2175" width="4048" height="2169" frameX="0" frameY="-8" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0011" x="4" y="2175" width="4048" height="2169" frameX="0" frameY="-9" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0012" x="4" y="2175" width="4048" height="2169" frameX="0" frameY="-8" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0013" x="4" y="2175" width="4048" height="2169" frameX="0" frameY="-7" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0014" x="4048" y="4" width="4046" height="2167" frameX="0" frameY="-6" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0015" x="4048" y="4" width="4046" height="2167" frameX="0" frameY="-5" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0016" x="4048" y="4" width="4046" height="2167" frameX="-1" frameY="-5" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0017" x="4048" y="4" width="4046" height="2167" frameX="-1" frameY="-4" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0018" x="4048" y="4" width="4046" height="2167" frameX="-1" frameY="-3" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0019" x="4048" y="4" width="4046" height="2167" frameX="-1" frameY="-2" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0020" x="4" y="4" width="4040" height="2161" frameX="-1" frameY="-2" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0021" x="4" y="4" width="4040" height="2161" frameX="-1" frameY="-1" frameWidth="4048" frameHeight="2177"/>
+	<SubTexture name="brouillard 0022" x="4" y="4" width="4040" height="2161" frameX="-2" frameY="-1" frameWidth="4048" frameHeight="2177"/>
+</TextureAtlas>
