@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "hiddenPalace",
+		"player1": "bf",
+		"player2": "knuckles",
+		"player3": null,
+		"events": [
+			[
+				53940.1778496362,
+				[
+					[
+						"Change Character",
+						"1",
+						"Knuckles_Sprite"
+					]
+				]
+			],
+			[
+				53940.1778496362,
+				[
+					[
+						"Change Character",
+						"0",
+						"Encore_Pixel_Bf"
+					]
+				]
+			],
+			[
+				53940.1778496362,
+				[
+					[
+						"pixelStage",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "hidden-palace"
+	}
+}
