@@ -1,0 +1,51 @@
+{
+	"song": {
+		"events": [
+			[
+				78139.5348837209,
+				[
+					[
+						"Change Character",
+						"eggman fly",
+						"knuckles s"
+					],
+					[
+						"Flash Camera",
+						"1.5",
+						""
+					]
+				]
+			],
+			[
+				137339.534883721,
+				[
+					[
+						"Flash Camera",
+						"1.5",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"tails s"
+					]
+				]
+			],
+			[
+				186319.126720456,
+				[
+					[
+						"Flash Camera",
+						"1.5",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"knuckles r"
+					]
+				]
+			]
+		]
+	}
+}
