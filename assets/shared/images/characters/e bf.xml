@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Encore Boyfriend.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down Encore Bf0000" x="0" y="0" width="93" height="61"/>
+	<SubTexture name="Down Encore Bf0001" x="0" y="0" width="93" height="61"/>
+	<SubTexture name="Down Encore Bf0002" x="93" y="0" width="93" height="61"/>
+	<SubTexture name="Down Encore Bf0003" x="93" y="0" width="93" height="61"/>
+	<SubTexture name="Idle Encore Boyfriend0000" x="186" y="0" width="93" height="61"/>
+	<SubTexture name="Idle Encore Boyfriend0001" x="186" y="0" width="93" height="61"/>
+	<SubTexture name="Idle Encore Boyfriend0002" x="279" y="0" width="93" height="61"/>
+	<SubTexture name="Idle Encore Boyfriend0003" x="279" y="0" width="93" height="61"/>
+	<SubTexture name="Idle Encore Boyfriend0004" x="372" y="0" width="93" height="61"/>
+	<SubTexture name="Idle Encore Boyfriend0005" x="372" y="0" width="93" height="61"/>
+	<SubTexture name="Idle Encore Boyfriend0006" x="0" y="61" width="93" height="61"/>
+	<SubTexture name="Idle Encore Boyfriend0007" x="0" y="61" width="93" height="61"/>
+	<SubTexture name="Idle Encore Boyfriend0008" x="0" y="61" width="93" height="61"/>
+	<SubTexture name="Idle Encore Boyfriend0009" x="0" y="61" width="93" height="61"/>
+	<SubTexture name="Left Encore Bf0000" x="93" y="61" width="93" height="61"/>
+	<SubTexture name="Left Encore Bf0001" x="93" y="61" width="93" height="61"/>
+	<SubTexture name="Left Encore Bf0002" x="186" y="61" width="93" height="61"/>
+	<SubTexture name="Left Encore Bf0003" x="186" y="61" width="93" height="61"/>
+	<SubTexture name="Miss Note Down Encore Bf0000" x="0" y="0" width="93" height="61"/>
+	<SubTexture name="Miss Note Down Encore Bf0001" x="0" y="0" width="93" height="61"/>
+	<SubTexture name="Miss Note Down Encore Bf0002" x="279" y="61" width="93" height="61"/>
+	<SubTexture name="Miss Note Down Encore Bf0003" x="279" y="61" width="93" height="61"/>
+	<SubTexture name="Miss Note Down Encore Bf0004" x="372" y="61" width="93" height="61"/>
+	<SubTexture name="Miss Note Down Encore Bf0005" x="372" y="61" width="93" height="61"/>
+	<SubTexture name="Miss Note Left Encore Bf0000" x="93" y="61" width="93" height="61"/>
+	<SubTexture name="Miss Note Left Encore Bf0001" x="93" y="61" width="93" height="61"/>
+	<SubTexture name="Miss Note Left Encore Bf0002" x="0" y="122" width="93" height="61"/>
+	<SubTexture name="Miss Note Left Encore Bf0003" x="0" y="122" width="93" height="61"/>
+	<SubTexture name="Miss Note Left Encore Bf0004" x="93" y="122" width="93" height="61"/>
+	<SubTexture name="Miss Note Left Encore Bf0005" x="93" y="122" width="93" height="61"/>
+	<SubTexture name="Miss Note Right Encore Bf0000" x="93" y="183" width="93" height="61"/>
+	<SubTexture name="Miss Note Right Encore Bf0001" x="93" y="183" width="93" height="61"/>
+	<SubTexture name="Miss Note Right Encore Bf0002" x="186" y="122" width="93" height="61"/>
+	<SubTexture name="Miss Note Right Encore Bf0003" x="186" y="122" width="93" height="61"/>
+	<SubTexture name="Miss Note Right Encore Bf0004" x="279" y="122" width="93" height="61"/>
+	<SubTexture name="Miss Note Right Encore Bf0005" x="279" y="122" width="93" height="61"/>
+	<SubTexture name="Miss Note Up Encore Bf0000" x="279" y="183" width="93" height="61"/>
+	<SubTexture name="Miss Note Up Encore Bf0001" x="279" y="183" width="93" height="61"/>
+	<SubTexture name="Miss Note Up Encore Bf0002" x="372" y="122" width="93" height="61"/>
+	<SubTexture name="Miss Note Up Encore Bf0003" x="372" y="122" width="93" height="61"/>
+	<SubTexture name="Miss Note Up Encore Bf0004" x="0" y="183" width="93" height="61"/>
+	<SubTexture name="Miss Note Up Encore Bf0005" x="0" y="183" width="93" height="61"/>
+	<SubTexture name="Right Encore Bf0000" x="93" y="183" width="93" height="61"/>
+	<SubTexture name="Right Encore Bf0001" x="93" y="183" width="93" height="61"/>
+	<SubTexture name="Right Encore Bf0002" x="186" y="183" width="93" height="61"/>
+	<SubTexture name="Right Encore Bf0003" x="186" y="183" width="93" height="61"/>
+	<SubTexture name="Up Encore Bf0000" x="279" y="183" width="93" height="61"/>
+	<SubTexture name="Up Encore Bf0001" x="279" y="183" width="93" height="61"/>
+	<SubTexture name="Up Encore Bf0002" x="372" y="183" width="93" height="61"/>
+	<SubTexture name="Up Encore Bf0003" x="372" y="183" width="93" height="61"/>
+</TextureAtlas>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="exeller e metal.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="exeller sex0000" x="0" y="0" width="1729" height="955"/>
+	<SubTexture name="exeller sex0001" x="1729" y="0" width="1729" height="955"/>
+	<SubTexture name="exeller sex0002" x="3458" y="0" width="1729" height="955"/>
+	<SubTexture name="exeller sex0003" x="5187" y="0" width="1729" height="955"/>
+	<SubTexture name="exeller sex0004" x="0" y="955" width="1729" height="955"/>
+	<SubTexture name="exeller sex0005" x="1729" y="955" width="1729" height="955"/>
+	<SubTexture name="exeller sex0006" x="3458" y="955" width="1729" height="955"/>
+	<SubTexture name="exeller sex0007" x="5187" y="955" width="1729" height="955"/>
+	<SubTexture name="exeller sex0008" x="0" y="1910" width="1729" height="955"/>
+	<SubTexture name="exeller sex0009" x="1729" y="1910" width="1729" height="955"/>
+	<SubTexture name="exeller sex0010" x="3458" y="1910" width="1729" height="955"/>
+	<SubTexture name="exeller sex0011" x="5187" y="1910" width="1729" height="955"/>
+	<SubTexture name="exeller sex0012" x="0" y="2865" width="1729" height="955"/>
+</TextureAtlas>

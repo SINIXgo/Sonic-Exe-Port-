@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Knuckles Sprite.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down Knuckles0000" x="0" y="0" width="100" height="100"/>
+	<SubTexture name="Down Knuckles0001" x="0" y="0" width="100" height="100"/>
+	<SubTexture name="Down Knuckles0002" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="Down Knuckles0003" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="Down Knuckles0004" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="Down Knuckles0005" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="Down Knuckles0006" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="Down Knuckles0007" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="Down Knuckles0008" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="Down Knuckles0009" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="Down Knuckles0010" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="Down Knuckles0011" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="Down Knuckles0012" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="Down Knuckles0013" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="Idle Knukcles 0000" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="Idle Knukcles 0001" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="Idle Knukcles 0002" x="300" y="0" width="100" height="100"/>
+	<SubTexture name="Idle Knukcles 0003" x="300" y="0" width="100" height="100"/>
+	<SubTexture name="Idle Knukcles 0004" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="Idle Knukcles 0005" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="Idle Knukcles 0006" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="Idle Knukcles 0007" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="Idle Knukcles 0008" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="Idle Knukcles 0009" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="Idle Knukcles 0010" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="Idle Knukcles 0011" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="Idle Knukcles 0012" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="Idle Knukcles 0013" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="Left Knuckles0000" x="0" y="100" width="100" height="100"/>
+	<SubTexture name="Left Knuckles0001" x="0" y="100" width="100" height="100"/>
+	<SubTexture name="Left Knuckles0002" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="Left Knuckles0003" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="Left Knuckles0004" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="Left Knuckles0005" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="Left Knuckles0006" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="Left Knuckles0007" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="Left Knuckles0008" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="Left Knuckles0009" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="Left Knuckles0010" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="Left Knuckles0011" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="Left Knuckles0012" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="Left Knuckles0013" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="Right Knuckles0000" x="200" y="100" width="100" height="100"/>
+	<SubTexture name="Right Knuckles0001" x="200" y="100" width="100" height="100"/>
+	<SubTexture name="Right Knuckles0002" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="Right Knuckles0003" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="Right Knuckles0004" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="Right Knuckles0005" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="Right Knuckles0006" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="Right Knuckles0007" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="Right Knuckles0008" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="Right Knuckles0009" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="Right Knuckles0010" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="Right Knuckles0011" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="Right Knuckles0012" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="Right Knuckles0013" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="Up Knuckles0000" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="Up Knuckles0001" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="Up Knuckles0002" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="Up Knuckles0003" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="Up Knuckles0004" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="Up Knuckles0005" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="Up Knuckles0006" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="Up Knuckles0007" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="Up Knuckles0008" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="Up Knuckles0009" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="Up Knuckles0010" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="Up Knuckles0011" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="Up Knuckles0012" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="Up Knuckles0013" x="0" y="200" width="100" height="100"/>
+</TextureAtlas>
