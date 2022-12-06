@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="give up knux.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="escape0000" x="0" y="0" width="1764" height="771"/>
+	<SubTexture name="escape0001" x="0" y="0" width="1764" height="771"/>
+	<SubTexture name="escape0002" x="1764" y="0" width="1676" height="727" frameX="-39" frameY="0" frameWidth="1764" frameHeight="771"/>
+	<SubTexture name="escape0003" x="1764" y="0" width="1676" height="727" frameX="-39" frameY="0" frameWidth="1764" frameHeight="771"/>
+	<SubTexture name="escape0004" x="3440" y="0" width="1575" height="726" frameX="-138" frameY="0" frameWidth="1764" frameHeight="771"/>
+	<SubTexture name="escape0005" x="3440" y="0" width="1575" height="726" frameX="-138" frameY="0" frameWidth="1764" frameHeight="771"/>
+	<SubTexture name="escape0006" x="5015" y="0" width="1443" height="726" frameX="-200" frameY="0" frameWidth="1764" frameHeight="771"/>
+	<SubTexture name="escape0007" x="5015" y="0" width="1443" height="726" frameX="-200" frameY="0" frameWidth="1764" frameHeight="771"/>
+	<SubTexture name="escape0008" x="6458" y="0" width="1194" height="727" frameX="-450" frameY="0" frameWidth="1764" frameHeight="771"/>
+	<SubTexture name="escape0009" x="6458" y="0" width="1194" height="727" frameX="-450" frameY="0" frameWidth="1764" frameHeight="771"/>
+	<SubTexture name="escape0010" x="0" y="771" width="1223" height="727" frameX="-492" frameY="0" frameWidth="1764" frameHeight="771"/>
+	<SubTexture name="escape0011" x="0" y="771" width="1223" height="727" frameX="-492" frameY="0" frameWidth="1764" frameHeight="771"/>
+	<SubTexture name="escape0012" x="1223" y="771" width="1222" height="726" frameX="-497" frameY="0" frameWidth="1764" frameHeight="771"/>
+	<SubTexture name="escape0013" x="1223" y="771" width="1222" height="726" frameX="-497" frameY="0" frameWidth="1764" frameHeight="771"/>
+	<SubTexture name="give up0000" x="2445" y="771" width="1757" height="726" frameX="-2" frameY="0" frameWidth="1761" frameHeight="727"/>
+	<SubTexture name="give up0001" x="4202" y="771" width="1757" height="726" frameX="-2" frameY="0" frameWidth="1761" frameHeight="727"/>
+	<SubTexture name="give up0002" x="5959" y="771" width="1710" height="727" frameX="0" frameY="0" frameWidth="1761" frameHeight="727"/>
+	<SubTexture name="give up0003" x="5959" y="771" width="1710" height="727" frameX="0" frameY="0" frameWidth="1761" frameHeight="727"/>
+	<SubTexture name="give up0004" x="0" y="1498" width="1708" height="726" frameX="0" frameY="0" frameWidth="1761" frameHeight="727"/>
+	<SubTexture name="give up0005" x="0" y="1498" width="1708" height="726" frameX="0" frameY="0" frameWidth="1761" frameHeight="727"/>
+	<SubTexture name="give up0006" x="1708" y="1498" width="1638" height="726" frameX="0" frameY="0" frameWidth="1761" frameHeight="727"/>
+	<SubTexture name="give up0007" x="1708" y="1498" width="1638" height="726" frameX="0" frameY="0" frameWidth="1761" frameHeight="727"/>
+	<SubTexture name="give up0008" x="3346" y="1498" width="1637" height="727" frameX="-2" frameY="0" frameWidth="1761" frameHeight="727"/>
+	<SubTexture name="give up0009" x="4983" y="1498" width="1637" height="727" frameX="-2" frameY="0" frameWidth="1761" frameHeight="727"/>
+	<SubTexture name="give up0010" x="0" y="2225" width="1710" height="727" frameX="0" frameY="0" frameWidth="1761" frameHeight="727"/>
+	<SubTexture name="give up0011" x="0" y="2225" width="1710" height="727" frameX="0" frameY="0" frameWidth="1761" frameHeight="727"/>
+	<SubTexture name="give up0012" x="1710" y="2225" width="1714" height="726" frameX="0" frameY="0" frameWidth="1761" frameHeight="727"/>
+	<SubTexture name="give up0013" x="1710" y="2225" width="1714" height="726" frameX="0" frameY="0" frameWidth="1761" frameHeight="727"/>
+	<SubTexture name="give up0014" x="3424" y="2225" width="1761" height="726" frameX="0" frameY="0" frameWidth="1761" frameHeight="727"/>
+	<SubTexture name="give up0015" x="3424" y="2225" width="1761" height="726" frameX="0" frameY="0" frameWidth="1761" frameHeight="727"/>
+</TextureAtlas>

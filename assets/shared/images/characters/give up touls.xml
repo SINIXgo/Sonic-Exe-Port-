@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="give up touls.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lal0000" x="0" y="0" width="675" height="599" frameX="-21" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0001" x="675" y="0" width="621" height="599" frameX="-21" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0002" x="1296" y="0" width="628" height="599" frameX="-14" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0003" x="1924" y="0" width="629" height="599" frameX="-14" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0004" x="2553" y="0" width="629" height="599" frameX="-14" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0005" x="3182" y="0" width="684" height="599" frameX="-14" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0006" x="0" y="599" width="685" height="599" frameX="-13" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0007" x="685" y="599" width="688" height="599" frameX="-13" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0008" x="1373" y="599" width="688" height="600" frameX="-13" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0009" x="2061" y="599" width="724" height="600" frameX="-13" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0010" x="2785" y="599" width="726" height="600" frameX="-11" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0011" x="0" y="1199" width="725" height="600" frameX="-11" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0012" x="725" y="1199" width="736" height="599" frameX="0" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0013" x="1461" y="1199" width="698" height="599" frameX="0" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0014" x="2159" y="1199" width="692" height="599" frameX="-6" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0015" x="2851" y="1199" width="690" height="599" frameX="-6" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0016" x="0" y="1799" width="690" height="599" frameX="-6" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0017" x="690" y="1799" width="636" height="599" frameX="-6" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0018" x="1326" y="1799" width="636" height="599" frameX="-6" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0019" x="1962" y="1799" width="637" height="599" frameX="-6" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0020" x="2599" y="1799" width="637" height="599" frameX="-6" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0021" x="3236" y="1799" width="692" height="599" frameX="-6" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0022" x="3236" y="1799" width="692" height="599" frameX="-6" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0023" x="0" y="2398" width="695" height="599" frameX="-6" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0024" x="695" y="2398" width="695" height="600" frameX="-6" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lal0025" x="1390" y="2398" width="731" height="600" frameX="-6" frameY="0" frameWidth="737" frameHeight="600"/>
+	<SubTexture name="lol0000" x="2121" y="2398" width="402" height="599" frameX="0" frameY="0" frameWidth="404" frameHeight="600"/>
+	<SubTexture name="lol0001" x="2121" y="2398" width="402" height="599" frameX="0" frameY="0" frameWidth="404" frameHeight="600"/>
+	<SubTexture name="lol0002" x="2523" y="2398" width="402" height="599" frameX="0" frameY="0" frameWidth="404" frameHeight="600"/>
+	<SubTexture name="lol0003" x="2925" y="2398" width="386" height="599" frameX="-17" frameY="0" frameWidth="404" frameHeight="600"/>
+	<SubTexture name="lol0004" x="3311" y="2398" width="387" height="599" frameX="-16" frameY="0" frameWidth="404" frameHeight="600"/>
+	<SubTexture name="lol0005" x="3311" y="2398" width="387" height="599" frameX="-16" frameY="0" frameWidth="404" frameHeight="600"/>
+	<SubTexture name="lol0006" x="3698" y="2398" width="388" height="599" frameX="-16" frameY="0" frameWidth="404" frameHeight="600"/>
+	<SubTexture name="lol0007" x="3698" y="2398" width="388" height="599" frameX="-16" frameY="0" frameWidth="404" frameHeight="600"/>
+	<SubTexture name="lol0008" x="0" y="2998" width="387" height="600" frameX="-17" frameY="0" frameWidth="404" frameHeight="600"/>
+	<SubTexture name="lol0009" x="387" y="2998" width="399" height="600" frameX="-3" frameY="0" frameWidth="404" frameHeight="600"/>
+	<SubTexture name="lol0010" x="387" y="2998" width="399" height="600" frameX="-3" frameY="0" frameWidth="404" frameHeight="600"/>
+	<SubTexture name="lol0011" x="387" y="2998" width="399" height="600" frameX="-3" frameY="0" frameWidth="404" frameHeight="600"/>
+	<SubTexture name="lol0012" x="786" y="2998" width="387" height="599" frameX="-16" frameY="0" frameWidth="404" frameHeight="600"/>
+	<SubTexture name="lol0013" x="786" y="2998" width="387" height="599" frameX="-16" frameY="0" frameWidth="404" frameHeight="600"/>
+	<SubTexture name="lol0014" x="786" y="2998" width="387" height="599" frameX="-16" frameY="0" frameWidth="404" frameHeight="600"/>
+	<SubTexture name="lol0015" x="1173" y="2998" width="388" height="599" frameX="-16" frameY="0" frameWidth="404" frameHeight="600"/>
+	<SubTexture name="lol0016" x="1561" y="2998" width="388" height="599" frameX="-16" frameY="0" frameWidth="404" frameHeight="600"/>
+	<SubTexture name="lol0017" x="1561" y="2998" width="388" height="599" frameX="-16" frameY="0" frameWidth="404" frameHeight="600"/>
+</TextureAtlas>
