@@ -1,22 +1,50 @@
 {
-	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-	
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"dark spirit",
+			"iso",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"amnesia",
+			"exeller-sprite",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"knuckong",
+			"knuckles",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
 	"weekCharacters": [
-		"mom",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "limo",
-
-	"storyName": "MOMMY MUST MURDER",
-	"weekBefore": "week3",
-	"weekName": "Week 4",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
 }

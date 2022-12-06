@@ -1,20 +1,52 @@
 {
-	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
-	],
-
-	"weekCharacters": [
-		"",
-		"bf",
-		"gf"
-	],
+	"storyName": "tails",
+	"hideFreeplay": false,
 	"weekBackground": "stage",
-
-	"storyName": "",
 	"weekBefore": "tutorial",
-	"weekName": "Tutorial",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"tails",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"green hill",
+			"tails",
+			[
+				165,
+				0,
+				77
+			]
+		],
+		[
+			"mecha jungle",
+			"tails",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"alliance",
+			"tails",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"crystal flame",
+			"tails",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Tutorial"
 }
