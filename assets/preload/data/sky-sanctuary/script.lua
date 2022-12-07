@@ -1,6 +1,5 @@
-function onCreate()
-	setPropertyFromClass('GameOverSubstate', 'characterName', 'e'); --Character json file for the death animation
-	setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx'); --put in mods/sounds/
-	setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'gameOver'); --put in mods/music/
-	setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd'); --put in mods/music/
+function onCreate() 
+makeLuaText('watermark'," Ported By Sinix Go and mateuzinho  ", 0, 2, 688); -- You can edit the created by Prisma Text just dont change anything else
+    setTextSize('watermark', 20);
+    addLuaText('watermark');
 end
